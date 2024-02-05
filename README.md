@@ -7,11 +7,13 @@ Live photo rectangle detection library useful for scanning documents. On capture
 
 - Live detection
 - Perspective correction and crop of the image
-- Filters
-- Flash
+- Filters : *no need for our App*
+- Flash : *no need for our App*
 - Orientation Changes
 - Camera permission and capabilities detection
 - Fully customizable UI
+
+- QR code detect : *should be added*
 
 ## Getting started
 
